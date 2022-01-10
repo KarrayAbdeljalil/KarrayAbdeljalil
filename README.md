@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
+<a href="#"><img width="100%" height="120px" src="https://i.imgur.com/iXuL1HG.png" /></a>
 
 <h1 align="center">Hi there <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width="40px">, I'm Abdeljalil </h1>
 <h2 align="center">I'm a passionate Full Stack Developer from Tunisia.</h2>
