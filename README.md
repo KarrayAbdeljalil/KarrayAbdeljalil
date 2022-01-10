@@ -18,7 +18,7 @@
     
 - 🏆 [My Achievements]()
     
-- ⚡ Facts : **Obsessed with Retro Games & 80s & 90s Music.**
+- ⚡ Facts : **Obsessed with Retro Games & 80s-90s Music.**
     
 <br/>
 
@@ -37,7 +37,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
-<br/>
 
 ## 👨‍💻 Connect with me:
 <p align="center">
@@ -48,13 +47,11 @@
 <a href = "https://www.youtube.com/channel/UC4npkO7yS_o5pl9A-33Yv1A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 <p align="center"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="120"/></p>
-<br/>
 
 ## 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/KarrayAbdeljalil/github-readme-stats"><img alt="Abdeljalil Karray's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KarrayAbdeljalil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-<br/>
 
 ## 💖 Views and Followers
 <p align="center">
