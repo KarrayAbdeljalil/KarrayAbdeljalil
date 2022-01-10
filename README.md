@@ -10,7 +10,7 @@
 
 - 🎓 I’m an **Engineer** Graduated from **National School of Engineering of Sfax**
 
-- 🧠 I have a passion for learning **New technologies** 
+- 🧠 I'm passionate about learning **New technologies** 
 
 - ✨ My Favorite Tech: **HTML, CSS, JavaScript, React, MongoDB ...**
 
@@ -39,7 +39,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
-
 <br/>
 
 ## 👨‍💻 Connect with me:
@@ -50,14 +49,12 @@
 <a href = "https://twitter.com/AbdeljalilKrr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UC4npkO7yS_o5pl9A-33Yv1A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-
 <br/>
 
 ## 📊 My Github Stats
-
-  <br/>
+<p align="center">
     <a href="https://github.com/KarrayAbdeljalil/github-readme-stats"><img alt="Abdeljalil Karray's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KarrayAbdeljalil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
+</p>
 <br/>
 
 ## 💖 Views and Followers
@@ -69,4 +66,4 @@
 </p>
 <br/>
 
-<img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" />
+<img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" align="center"/>
