@@ -1,8 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="170px"/></a>
 
 <h1 align="center">Hi there <img src="https://media.tenor.com/images/45eacfe032ce44bd49ab05d99b4bae86/tenor.gif" width="40px">, I'm Abdeljalil </h1>
 <h2 align="center">I'm a passionate Full Stack Developer from Tunisia.</h2>
-
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width=100/>
 
 ## 🙋‍♂️ About Me
 
