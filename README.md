@@ -5,16 +5,23 @@
 
 
 ## 🙋‍♂️ About Me
-<p align="center"> 
+
 - 💼 [My Personal Website](https://abdeljalilkarray.github.io)
+    
 - 🎓 I’m an **Engineer** Graduated from **National School of Engineering of Sfax**
+    
 - 🧠 I'm passionate about learning **New technologies** 
+    
 - ✨ My Favorite Tech: **HTML, CSS, JavaScript, React, MongoDB ...**
+    
 - 📓 I’m currently **Linux, Python, Algo, AWS, Azur ...**
+    
 - 📧 You can contact me by **karray.abdeljalil@live.fr**
+    
 - 🏆 [My Achievements]()
+    
 - ⚡ Facts : **Obsessed with Retro Games & 80s & 90s Music.**
-</p>
+    
 <br/>
 
 ## 🚀 Languages and Tools: 
