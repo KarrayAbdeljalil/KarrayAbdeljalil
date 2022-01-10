@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-
+<p align="center"> 
 - 💼 [My Personal Website](https://abdeljalilkarray.github.io)
 
 - 🎓 I’m an **Engineer** Graduated from **National School of Engineering of Sfax**
@@ -21,7 +21,7 @@
 - 🏆 [My Achievements]()
 
 - ⚡ Facts : **Obsessed with Retro Games & 80s & 90s Music.**
-
+</p>
 <br/>
 
 ## 🚀 Languages and Tools: 
@@ -63,7 +63,8 @@
     <img src="https://komarev.com/ghpvc/?username=KarrayAbdeljalil">
 </a>
 <a href="https://github.com/KarrayAbdeljalil?tab=followers"><img src="https://img.shields.io/github/followers/KarrayAbdeljalil?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<br/>
-
 <img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e45847152ea1ae77a635140018135f53cb181d5e&rid=giphy.gif&ct=g" align="center"/>
+</p>
+
+
+
