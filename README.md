@@ -16,9 +16,9 @@
     
 - 📧 You can contact me by **karray.abdeljalil@live.fr**
     
-- 🏆 [My Achievements]()
-    
 - ⚡ Facts : **Obsessed with Retro Games & 80s-90s Music.**
+
+- 🏆 [My Achievements]()
     
 <br/>
 
