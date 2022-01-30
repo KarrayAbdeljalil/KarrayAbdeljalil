@@ -12,7 +12,7 @@
     
 - ✨ My Favorite Tech: **HTML, CSS, JavaScript, React, MongoDB ...**
     
-- 📓 I’m currently **Linux, Python, Algo, AWS, Azur ...**
+- 📓 I’m currently learning **Linux, Python, Algo, AWS, Azur ...**
     
 - 📧 You can contact me by **karray.abdeljalil@live.fr**
     
