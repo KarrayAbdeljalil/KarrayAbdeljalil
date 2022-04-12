@@ -10,7 +10,7 @@
     
 - 🧠 I'm passionate about learning **New technologies** 
     
-- ✨ My Favorite Tech: **HTML, CSS, JavaScript, React, MongoDB ...**
+- ✨ My Favorite Tech: **HTML, CSS, JavaScript, ReactJS, MongoDB ...**
     
 - 📓 I’m currently learning **Linux, Python, Algo, AWS, Azur ...**
     
